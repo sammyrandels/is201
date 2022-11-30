@@ -1,0 +1,13 @@
+.myfont{
+    font-family: 'Courier New', Courier, monospace;
+}
+.mysubfont{
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke !important;
+}
+.img{
+    width: 50% !important; 
+}
+.myitalics{
+    font-style: italic !important;
+}
